@@ -52,7 +52,7 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
- https://github.com/sysjaykumar/CodeAlpha_ECommerce.git
+   https://github.com/sysjaykumar/CodeAlpha_ECommerce.git
    cd ECommerce
 
    Create a virtual environment:
