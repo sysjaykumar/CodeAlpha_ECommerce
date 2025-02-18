@@ -1,4 +1,4 @@
-# CodeAlpha_ECommerce
+# E-Commerce Website using Django
 
 A fully functional E-Commerce website built using Django. This project provides a platform for users to browse products, add them to the cart, and complete transactions securely. It includes user authentication, product management, order processing, and more.
 
@@ -110,3 +110,4 @@ Admin panel: http://127.0.0.1:8000/admin/ (Login using the superuser credentials
 - **Contact**: Provides a way for users to get in touch or report issues.
 
 You can replace or modify sections according to your project's specific setup or requirements.
+
